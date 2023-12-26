@@ -1,0 +1,19 @@
+{
+  "name": "routingapi-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artikosamodra/routingAPI-test.git"
+  },
+  "author": "artiko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artikosamodra/routingAPI-test/issues"
+  },
+  "homepage": "https://github.com/artikosamodra/routingAPI-test#readme"
+}
