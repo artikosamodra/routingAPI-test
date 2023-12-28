@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "api": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/artikosamodra/routingAPI-test/issues"
   },
-  "homepage": "https://github.com/artikosamodra/routingAPI-test#readme"
+  "homepage": "https://github.com/artikosamodra/routingAPI-test#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
